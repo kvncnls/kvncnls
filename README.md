@@ -25,6 +25,7 @@ I'm a freelance web developer & designer.
 
 
 Other resources:
+- [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
 - [Dribbble](https://dribbble.com/KVNCNLS)
