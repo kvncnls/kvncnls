@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi, I'm Kevin! 👋
 
-My name is [Kevin Canlas](https://kevincanlas.com/) and I'm a freelance web developer & designer.
+  
+## 🚀 About Me
+I'm a freelance web developer & designer.
 
 - 🔭 I’m currently working on some freelance projects
 - 🌱 I’m currently learning Nextjs & Supabase
@@ -8,6 +10,19 @@ My name is [Kevin Canlas](https://kevincanlas.com/) and I'm a freelance web deve
 - 💼 I'm open to full-time frontend web developer roles
 - 📫 You can reach me on [Twitter](https://twitter.com/kvncnls)!
 - ⚡ Fun fact: I have a Black Belt in Hapkido & Taekwondo, but I haven't practiced since 2015. 😅
+
+
+## 🛠 Tools & Skills
+
+- HTML, CSS, JavaScript
+- Svelte, SvelteKit
+- React, currently learning Nextjs & Redux
+- REST APIs, learning GraphQL
+- Jamstack with headless CMS's (Strapi, Sanity, Prismic)
+- WordPress
+- Shopify
+- Figma
+
 
 Other resources:
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
