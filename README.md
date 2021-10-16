@@ -18,7 +18,7 @@ I'm a freelance web developer & designer.
 - Svelte, SvelteKit
 - React, currently learning Nextjs & Redux
 - REST APIs, learning GraphQL
-- Jamstack with headless CMS's (Strapi, Sanity, Prismic)
+- Jamstack with headless CMS's (Strapi, Prismic)
 - WordPress
 - Shopify
 - Figma
