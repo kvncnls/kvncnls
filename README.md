@@ -16,7 +16,7 @@ My favourite thing about web development is turning great designs into clean, se
 - 🌱 I’m currently learning Nextjs & Redux
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
 - 💼 I'm open to part-time & full-time frontend web developer roles
-- ✉️ I'm very active on Twitter. I post about web development and design (with the occasional tech meme 😂).
+- ✉️ I'm very active on Twitter. I post about web development and design (with the occasional tech meme 😂). I love Svelte.
 
 Come give me a follow!:
 
@@ -29,7 +29,7 @@ Come give me a follow!:
 - JavaScript
 - GSAP
 - Svelte, SvelteKit
-- React (currently learning Nextjs & Redux)
+- React
 - REST APIs, learning GraphQL
 - Jamstack with headless CMS's (Strapi, Prismic)
 - Figma (design platform)
