@@ -19,7 +19,7 @@ I'm a freelance web developer & designer.
 - JavaScript
 - GSAP
 - Svelte, SvelteKit
-- React, currently learning Nextjs & Redux
+- React (currently learning Nextjs & Redux)
 - REST APIs, learning GraphQL
 - Jamstack with headless CMS's (Strapi, Prismic)
 - Figma (design platform)
