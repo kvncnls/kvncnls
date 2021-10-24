@@ -1,5 +1,7 @@
 # Hi, I'm Kevin! 👋
 
+Fastest way to contact me:
+![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
   
 ## 🚀 About Me
 I'm a freelance web developer & designer.
@@ -8,7 +10,6 @@ I'm a freelance web developer & designer.
 - 🌱 I’m currently learning Nextjs & Supabase
 - 👯 I’m looking to collaborate on freelance and Web3-related projects
 - 💼 I'm open to full-time frontend web developer roles
-- 📫 You can reach me on Twitter! ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 - ⚡ Fun fact: I have a Black Belt in Hapkido & Taekwondo, but I haven't practiced since 2015. 😅
 
 
