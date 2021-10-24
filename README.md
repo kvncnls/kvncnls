@@ -4,15 +4,20 @@ Fastest way to contact me:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
   
-## 🚀 About Me
-I'm a freelance web developer & designer.
+## 🚀 About Me:
+I'm a part-time freelance web developer & designer, and full-time job Mechanical Designer working in the automotive industry.
+I started web development when I got laid off from work and quickly fell in love with it.
+There's something about solving coding problems that makes me WANT to lose sleep.
 
+My favourite thing about web development is translating great designs into code.
+
+## 📋 Here are a few facts about me:
 - 💻 I’m currently working on some freelance projects
 - 🌱 I’m currently learning Nextjs & Redux
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
 - 💼 I'm open to part-time & full-time frontend web developer roles
 
-## 🛠 Tools & Skills
+## 🛠 Tools & Skills:
 
 - HTML & CSS
 - SASS/SCSS
@@ -28,7 +33,7 @@ I'm a freelance web developer & designer.
 - Shopify
 
 
-Other resources:
+## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
