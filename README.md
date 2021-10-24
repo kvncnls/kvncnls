@@ -7,7 +7,7 @@ Fastest way to contact me:
 ## 🚀 About Me
 I'm a freelance web developer & designer.
 
-- 🔭 I’m currently working on some freelance projects
+- 💻 I’m currently working on some freelance projects
 - 🌱 I’m currently learning Nextjs & Redux
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
 - 💼 I'm open to part-time & full-time frontend web developer roles
