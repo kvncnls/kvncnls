@@ -16,14 +16,18 @@ I'm a freelance web developer & designer.
 
 ## 🛠 Tools & Skills
 
-- HTML, CSS, JavaScript
+- HTML & CSS
+- SASS/SCSS
+- JavaScript
+- GSAP
 - Svelte, SvelteKit
 - React, currently learning Nextjs & Redux
 - REST APIs, learning GraphQL
 - Jamstack with headless CMS's (Strapi, Prismic)
+- Figma (design platform)
+- UI/UX design fundamentals
 - WordPress
 - Shopify
-- Figma
 
 
 Other resources:
