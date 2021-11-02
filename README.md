@@ -7,7 +7,7 @@ Fastest way to contact me:
 ## 🚀 About Me:
 I'm a part-time freelance web developer & designer, and a full-time Mechanical Designer working in the automotive industry.
 I started web development when I got laid off from work and quickly fell in love with it.
-There's something about solving coding problems that makes me WANT to lose sleep.
+There's something about solving code and animating/styling websites that makes me WANT to lose sleep.
 
 My favourite thing about web development is turning great designs into clean, semantic code.
 
