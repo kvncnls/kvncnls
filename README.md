@@ -9,7 +9,6 @@ I'm a part-time freelance web developer & designer, and a full-time Mechanical D
 I started web development when I got laid off from work and quickly fell in love with it.
 There's something about solving code and animating/styling websites that makes me WANT to lose sleep.
 
-My favourite thing about web development is turning great designs into clean, semantic code.
 
 ## 📋 Here are a few facts about me:
 - 💻 I’m currently working on some freelance projects
