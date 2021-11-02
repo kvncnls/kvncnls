@@ -24,7 +24,7 @@ Come give me a follow!:
 
 ## 🛠 Tools & Skills:
 
-### Languages
+### Languages & Preprocessor
 - HTML & CSS
 - SASS/SCSS
 - JavaScript
@@ -32,7 +32,7 @@ Come give me a follow!:
 ### Frameworks & Libraries
 - GSAP
 - Svelte, SvelteKit
-- React
+- React, learning Nextjs
 - REST APIs, learning GraphQL
 - Relearning Threejs & Barbajs
 
