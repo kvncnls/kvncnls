@@ -24,16 +24,24 @@ Come give me a follow!:
 
 ## 🛠 Tools & Skills:
 
+### Languages
 - HTML & CSS
 - SASS/SCSS
 - JavaScript
+
+### Frameworks & Libraries
 - GSAP
 - Svelte, SvelteKit
 - React
 - REST APIs, learning GraphQL
-- Jamstack with headless CMS's (Strapi, Prismic)
+- Relearning Threejs & Barbajs
+
+### Design
 - Figma (design platform)
 - UI/UX design fundamentals
+
+### Content Management Systems
+- Jamstack with headless CMS's (Strapi, Prismic)
 - WordPress
 - Shopify
 
