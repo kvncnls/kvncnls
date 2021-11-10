@@ -3,18 +3,13 @@
 Fastest way to contact me:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
-  
-## 🚀 About Me:
-I'm a part-time freelance web developer & designer, and a full-time Mechanical Designer working in the automotive industry.
-I started web development when I got laid off from work and quickly fell in love with it.
-There's something about solving code and animating/styling websites that makes me WANT to lose sleep.
 
 
 ## 📋 Here are a few facts about me:
 - 💻 I’m currently working on some freelance projects
 - 🌱 I’m currently learning Nextjs & Redux
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
-- 💼 I'm open to part-time & full-time frontend web developer roles
+- 💼 I'm open to part-time & full-time frontend web developer roles/freelance projects
 - ✉️ I'm very active on Twitter. I post about web development and design (with the occasional tech meme 😂). I love Svelte.
 
 Come give me a follow!:
