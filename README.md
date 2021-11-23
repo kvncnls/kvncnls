@@ -17,7 +17,7 @@ Give me a follow!:
 
 ## 🛠 Tools & Skills:
 
-### Languages & Preprocessor
+### Languages & Preprocessors
 - HTML & CSS
 - SASS/SCSS
 - JavaScript
