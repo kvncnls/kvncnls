@@ -9,7 +9,7 @@ Fastest way to contact me:
 - 💻 Working full time as a freelance developer & designer.
 - 🌱 I’m currently learning how to work in a team. Usually I'm solo, so working in a team environment with Git/Jira has been an experience. 
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
-- 💼 I'm open to part-time & full-time frontend web developer roles/freelance projects😂
+- 💼 I'm currently booked for the rest of November & December 2021.
 
 Give me a follow!:
 
