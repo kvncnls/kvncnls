@@ -6,13 +6,12 @@ Fastest way to contact me:
 
 
 ## 📋 Here are a few facts about me:
-- 💻 I’m currently working on some freelance projects
-- 🌱 I’m currently learning Nextjs & Redux
+- 💻 Working full time as a freelance developer & designer.
+- 🌱 I’m currently learning NOTHING. I'm so busy with work, I don't have free time to learn anything outside of the job. 🤣
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
 - 💼 I'm open to part-time & full-time frontend web developer roles/freelance projects
-- ✉️ I'm very active on Twitter. I post about web development and design (with the occasional tech meme 😂). I love Svelte.
 
-Come give me a follow!:
+Give me a follow!:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
@@ -29,15 +28,14 @@ Come give me a follow!:
 - React, learning Nextjs
 - REST APIs, learning GraphQL
 - Relearning Threejs & Barbajs
+- Tailwind
 
 ### Design
-- Figma (design platform)
+- Figma (design software)
 - UI/UX design fundamentals
 
-### Content Management Systems
-- Jamstack with headless CMS's (Strapi, Prismic)
-- WordPress
-- Shopify
+### Goals
+- To get on [Awwwards](www.awwwards.com)
 
 
 ## 📚 Other resources:
