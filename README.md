@@ -35,8 +35,7 @@ Give me a follow!:
 - UI/UX design fundamentals
 
 ### Goals
-- To get on [Awwwards](www.awwwards.com)
-
+- To get on [Awwwards](https://www.awwwards.com/)
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
