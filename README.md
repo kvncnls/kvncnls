@@ -35,7 +35,8 @@ Give me a follow!:
 - UI/UX design fundamentals
 
 ### Goals
-- To get on [Awwwards](https://www.awwwards.com/)
+- Win on [Awwwards](https://www.awwwards.com/).
+- Get street cred as a Web3 designer & developer.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
