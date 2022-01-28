@@ -26,8 +26,7 @@ Give me a follow!:
 - GSAP
 - Svelte, SvelteKit
 - React, learning Nextjs
-- REST APIs, learning GraphQL
-- Relearning Threejs & Barbajs
+- Dabbled in Threejs & Barbajs
 - Tailwind
 
 ### Design
@@ -36,10 +35,9 @@ Give me a follow!:
 
 ### Goals
 - Win on [Awwwards](https://www.awwwards.com/).
-- Get street cred as a Web3 designer & developer.
+- Establish myself as a Web3 designer & developer.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
-- [Dribbble](https://dribbble.com/KVNCNLS)
