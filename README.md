@@ -6,10 +6,10 @@ Fastest way to contact me:
 
 
 ## 📋 Here are a few facts about me:
-- 💻 Working full time as a freelance developer & designer.
-- 🌱 I’m currently learning how to work in a team. Usually I'm solo, so working in a team environment with Git/Jira has been an experience. 
+- 💻 I'm a fulltime frontend developer & UI designer.
+- 🌱 I’m currently learning Nextjs and getting better with GSAP.
 - 👯 I’m looking to collaborate on freelance work and Web3-related projects
-- 💼 I'm currently booked for the rest of November & December 2021, but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers. 😁
+- 💼 I'm currently booked but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers. 😁
 
 Give me a follow!:
 
@@ -26,8 +26,8 @@ Give me a follow!:
 - GSAP
 - Svelte, SvelteKit
 - React, learning Nextjs
-- Dabbled in Threejs & Barbajs
 - Tailwind
+- Dabbled in Threejs & Barbajs
 
 ### Design
 - Figma (design software)
