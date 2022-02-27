@@ -5,11 +5,11 @@ Fastest way to contact me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 
-## 📋 Here are a few facts about me:
-- 💻 I'm a fulltime frontend developer & UI designer.
-- 🌱 I’m currently learning Nextjs and getting better with GSAP.
-- 👯 I’m looking to collaborate on freelance work and Web3-related projects
-- 💼 I'm currently booked but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers. 😁
+## 📋 A few facts about me:
+- 💻 I'm a full-time frontend developer at Prolific Digital and a part-time UI designer & developer for some Web3 projects.
+- 🔥 I'm a Svelte/SvelteKit fanatic. It has the best developer experience out of all JS frameworks.
+- 🌱 I’m learning to be a better CSS/JS animator. Creative development is fucking awesome.
+- 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
 Give me a follow!:
 
@@ -23,19 +23,20 @@ Give me a follow!:
 - JavaScript
 
 ### Frameworks & Libraries
-- GSAP
 - Svelte, SvelteKit
-- React, learning Nextjs
+- React, Nextjs
 - Tailwind
-- Dabbled in Threejs & Barbajs
+- GSAP, Barbajs
+- Dabbled in Vue, Chakra UI, Python
 
 ### Design
-- Figma (design software)
+- Figma
 - UI/UX design fundamentals
 
-### Goals
-- Win on [Awwwards](https://www.awwwards.com/).
+### 2022 Goals
+- Work on an [Awwwards](https://www.awwwards.com/)-winning website.
 - Establish myself as a Web3 designer & developer.
+- Become a GSAP expert.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
