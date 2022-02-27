@@ -11,7 +11,7 @@ Fastest way to contact me:
 - 🌱 I’m learning to be a better CSS/JS animator. Creative development is fucking awesome.
 - 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
-Give me a follow!:
+Give me a follow!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
@@ -42,3 +42,5 @@ Give me a follow!:
 - [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
+- ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
+
