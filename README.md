@@ -21,14 +21,14 @@ Give me a follow on Twitter!!
 - HTML & CSS
 - SASS/SCSS
 - JavaScript
-- Dabbled in Python
+- Dabbled in PHP, Python
 
 ### Frameworks & Libraries
 - Svelte, SvelteKit
 - React, Nextjs
 - Tailwind
 - GSAP, AOS, Anime.js
-- Dabbled in Vue, Chakra UI
+- Dabbled in Vue, Laravel, Blade, Chakra UI
 
 ### Design
 - Figma
