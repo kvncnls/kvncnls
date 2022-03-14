@@ -8,10 +8,10 @@ Fastest way to contact me:
 ## 📋 A few facts about me:
 - 💻 I'm a full-time frontend developer at Prolific Digital and a part-time UI designer & developer for some Web3 projects.
 - 🔥 I'm a Svelte/SvelteKit fanatic. It has the best developer experience out of all JS frameworks.
-- 🌱 I’m learning to be a better CSS/JS animator. Creative development is fucking awesome.
+- 🌱 I’m learning to be a better CSS/JS animator. Creative design & development is fucking awesome.
 - 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
-Give me a follow!
+Give me a follow on Twitter!!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
