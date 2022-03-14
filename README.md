@@ -21,13 +21,14 @@ Give me a follow!
 - HTML & CSS
 - SASS/SCSS
 - JavaScript
+- Dabbled in Python
 
 ### Frameworks & Libraries
 - Svelte, SvelteKit
 - React, Nextjs
 - Tailwind
-- GSAP, Barbajs
-- Dabbled in Vue, Chakra UI, Python
+- GSAP, AOS, Anime.js
+- Dabbled in Vue, Chakra UI
 
 ### Design
 - Figma
