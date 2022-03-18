@@ -38,6 +38,9 @@ Give me a follow on Twitter!!
 - Work on an [Awwwards](https://www.awwwards.com/)-winning website.
 - Establish myself as a Web3 designer & developer.
 - Become a GSAP expert.
+- Maintain 10-12% body-fat for the whole year.
+- Recreate my personal website.
+- Get paid for my photography.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
