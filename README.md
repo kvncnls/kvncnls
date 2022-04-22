@@ -13,6 +13,7 @@ Fastest way to contact me:
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
 I'm currently booked for freelancing but send me a message anyway!
+
 We can work together in the future, or I can point you towards my network of devs and designers.
 
 Shoot me a DM on Twitter or email me at kvncnlsdsgns@gmail.com.
