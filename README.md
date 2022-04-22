@@ -9,9 +9,12 @@ Fastest way to contact me:
 - 💻 I'm a frontend developer & UI designer.
 - 🔥 My passion is creating unique experiences for users with design and animations.
 - 👀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain.
-- 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
-Give me a follow on Twitter!!
+![Status](https://img.shields.io/badge/Status-unavailable-red)
+
+I'm currently booked for freelancing but send me a message anyway! We can work together in the future, or I can point you towards my network of devs and designers.
+
+Shoot me a DM on Twitter!!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
