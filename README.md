@@ -7,7 +7,7 @@ Fastest way to contact me:
 
 ## 📋 About me:
 - 💻 I'm a frontend developer & UI designer.
-- 🔥 My passion is creating unique experiences for users with design and animations.
+- 🔥 My passion is creating unique experiences with design and animations.
 - 👀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
