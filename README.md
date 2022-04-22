@@ -47,7 +47,7 @@ Give me a follow on Twitter!!
 - Redesigned and developed the site
 - Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
 
-[Isekai Meta](https://www.isekaimeta.com) - Placeholder site completed, ongoing support for new features
+[Isekai Meta](https://isekaimeta.com/) - Placeholder site completed, ongoing support for new features
 - Currently under development.
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
