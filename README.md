@@ -55,5 +55,6 @@ Give me a follow on Twitter!!
 - [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
