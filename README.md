@@ -6,8 +6,8 @@ Fastest way to contact me:
 
 
 ## 📋 About me:
-- 💻 I'm a creative frontend developer & UI designer.
-- 🔥 I’m currently improving my skills at CSS/JS animations. Creative design & development is fucking awesome.
+- 💻 I'm a frontend developer & UI designer.
+- 🔥 My passion is creating unique experiences for users with design and coding animations.
 - 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
 Give me a follow on Twitter!!
@@ -23,8 +23,8 @@ Give me a follow on Twitter!!
 - Dabbled in PHP, Python
 
 ### Frameworks & Libraries
-- Svelte, SvelteKit
 - React, Nextjs
+- Svelte, SvelteKit
 - Tailwind
 - GSAP, AOS, Framer Motion
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
@@ -33,21 +33,20 @@ Give me a follow on Twitter!!
 - Figma
 - UI/UX design fundamentals
 
-### 2022 Goals
+### 2022-23 Goals
 - Work on an [Awwwards](https://www.awwwards.com/)-winning website.
 - Establish myself as a Web3 designer & developer.
-- Become a GSAP expert.
 
 ### Recent Projects:
 [Prolific Digital](https://www.prolificdigital.com) - Complete
 - Designed & developed
 - Tech used: Figma, Nextjs, GSAP, SCSS, Threejs
 
-[Solarians](https://www.solarians.click) - Main site completed, ongoing support for new features
-- Redesigned and developed the site
+[Solarians](https://www.solarians.click) - Main site completed, ongoing support for new features in the web app
+- Redesigned and developed main site and web app
 - Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
 
-[Isekai Meta](https://isekaimeta.com/) - Placeholder site completed, ongoing support for new features
+[Isekai Meta](https://isekaimeta.com/) - Placeholder site completed, ongoing support for main website
 - Currently under development.
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
