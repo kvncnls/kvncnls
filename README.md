@@ -14,7 +14,7 @@ Fastest way to contact me:
 
 I'm currently booked for freelancing but send me a message anyway! We can work together in the future, or I can point you towards my network of devs and designers.
 
-Shoot me a DM on Twitter!!
+Shoot me a DM on Twitter or email me at kvncnls@proton.me.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
