@@ -6,9 +6,8 @@ Fastest way to contact me:
 
 
 ## 📋 About me:
-- 💻 I'm a full-time frontend developer at Prolific Digital and a part-time UI designer & developer for some Web3 projects.
-- 🔥 I love Svelte/SvelteKit. It has the best developer experience out of all JS frameworks.
-- 🌱 I’m learning to be a better CSS/JS animator. Creative design & development is fucking awesome.
+- 💻 I'm a freelance designer & frontend developer.
+- 🔥 I’m currently learning to be a better CSS/JS animator. Creative design & development is fucking awesome.
 - 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
 Give me a follow on Twitter!!
@@ -38,6 +37,11 @@ Give me a follow on Twitter!!
 - Work on an [Awwwards](https://www.awwwards.com/)-winning website.
 - Establish myself as a Web3 designer & developer.
 - Become a GSAP expert.
+
+### Recent Projects:
+- [Prolific Digital](https://www.prolificdigital.com)
+- [Solarians](https://www.solarians.click)
+- [Isekai Meta](https://www.isekaimeta.com) 
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
