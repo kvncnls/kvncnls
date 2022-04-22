@@ -39,9 +39,17 @@ Give me a follow on Twitter!!
 - Become a GSAP expert.
 
 ### Recent Projects:
-- [Prolific Digital](https://www.prolificdigital.com) - Complete
-- [Solarians](https://www.solarians.click) - Redesigned and developed the site. Ongoing support for new features.
-- [Isekai Meta](https://www.isekaimeta.com) - Developed the 'placeholder' site. Main site is currently being designed & developed.
+[Prolific Digital](https://www.prolificdigital.com) - Complete
+- Designed & developed
+- Tech used: Figma, Nextjs, GSAP, SCSS, Threejs
+
+[Solarians](https://www.solarians.click) - Main site completed, ongoing support for new features
+- Redesigned and developed the site
+- Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
+
+[Isekai Meta](https://www.isekaimeta.com) - Placeholder site completed, ongoing support for new features
+- Currently under development.
+- Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
