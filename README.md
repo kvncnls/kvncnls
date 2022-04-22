@@ -6,8 +6,8 @@ Fastest way to contact me:
 
 
 ## 📋 About me:
-- 💻 I'm a freelance designer & frontend developer.
-- 🔥 I’m currently learning to be a better CSS/JS animator. Creative design & development is fucking awesome.
+- 💻 I'm a creative frontend developer & UI designer.
+- 🔥 I’m currently improving my skills at CSS/JS animations. Creative design & development is fucking awesome.
 - 💼 I'm currently booked for freelancing but send me a message anyway! We can collab in the future, or I can point you towards my network of devs and designers.
 
 Give me a follow on Twitter!!
@@ -26,7 +26,7 @@ Give me a follow on Twitter!!
 - Svelte, SvelteKit
 - React, Nextjs
 - Tailwind
-- GSAP, AOS
+- GSAP, AOS, Framer Motion
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
 ### Design
@@ -39,9 +39,9 @@ Give me a follow on Twitter!!
 - Become a GSAP expert.
 
 ### Recent Projects:
-- [Prolific Digital](https://www.prolificdigital.com)
-- [Solarians](https://www.solarians.click)
-- [Isekai Meta](https://www.isekaimeta.com) 
+- [Prolific Digital](https://www.prolificdigital.com) - Complete
+- [Solarians](https://www.solarians.click) - Redesigned and developed the site. Ongoing support for new features.
+- [Isekai Meta](https://www.isekaimeta.com) - Developed the 'placeholder' site. Main site is currently being designed & developed.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
