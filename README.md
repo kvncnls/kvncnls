@@ -3,7 +3,6 @@
 Fastest way to contact me:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/saminacodes?style=social)
 
 ## 📋 About me:
 - 💻 I'm a creative frontend developer & UI designer.
