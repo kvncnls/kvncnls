@@ -42,15 +42,16 @@ Shoot me a DM on Twitter or email me at kvncnlsdsgns@gmail.com.
 
 ### Recent Projects:
 [Prolific Digital](https://www.prolificdigital.com) - Complete
-- Designed & developed
+- Designed & developed website.
 - Tech used: Figma, Nextjs, GSAP, SCSS, Threejs
 
-[Solarians](https://www.solarians.click) - Main site completed, ongoing support for new features in the web app
-- Redesigned and developed main site and web app
+[Solarians](https://www.solarians.click) - Complete.
+- Redesigned and developed website and web app
 - Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
 
-[Isekai Meta](https://isekaimeta.com/) - Placeholder site completed, ongoing support for main website
-- Currently under development.
+[Isekai Meta](https://isekaimeta.com/) - Complete.
+- Designed & developed website.
+- Has upcoming updates. 👀
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
 ## 📚 Other resources:
