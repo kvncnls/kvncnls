@@ -34,7 +34,9 @@ Shoot me a DM on Twitter or email me at kvncnlsdsgns@gmail.com.
 
 ### Design
 - Figma
-- UI/UX design fundamentals
+- UI/UX design
+- Prototyping 
+- Web Design
 
 ### 2022-23 Goals
 - Work on an [Awwwards](https://www.awwwards.com/)-winning website.
