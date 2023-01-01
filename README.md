@@ -56,6 +56,11 @@ Shoot me a DM on Twitter or email me at kvncnlsdsgns@gmail.com.
 - Has upcoming updates. 👀
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
+[Franky's Dinner](https://www.frankythefrog.com/) - Phase 1 complete.
+- Designed & developed website.
+- Minting soon. 👀
+- Tech used: Figma, Nextjs, SCSS, GSAP
+
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
