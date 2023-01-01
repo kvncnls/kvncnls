@@ -7,7 +7,7 @@ Fastest way to contact me:
 ## 📋 About me:
 - 💻 I'm a creative frontend developer & UI designer.
 - 🔥 My passion is creating unique experiences with design and animations.
-- 🚀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 25th, 2022. 🚀
+- 🚀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 2022 for about ~$2.5M USD and opened our animation studio in December 2022.. 🚀
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
