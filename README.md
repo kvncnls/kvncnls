@@ -43,22 +43,20 @@ Shoot me a DM on Twitter!
 - Establish myself as a Web3 designer & developer.
 
 ### Recent Projects:
-[Prolific Digital](https://www.prolificdigital.com) - Complete
+[Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed website.
 - Tech used: Figma, Nextjs, GSAP, SCSS, Threejs
 
-[Solarians](https://www.solarians.click) - Complete.
+[Solarians](https://www.solarians.click)
 - Redesigned and developed website and web app
 - Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
 
-[Isekai Meta](https://isekaimeta.com/) - Complete.
+[Isekai Meta](https://isekaimeta.com/)
 - Designed & developed website.
-- Has upcoming updates. 👀
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
 
-[Franky's Dinner](https://www.frankythefrog.com/) - Phase 1 complete.
+[Franky's Dinner](https://www.frankythefrog.com/)
 - Designed & developed website.
-- Minting soon. 👀
 - Tech used: Figma, Nextjs, SCSS, GSAP
 
 ## 📚 Other resources:
