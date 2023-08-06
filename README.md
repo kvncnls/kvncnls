@@ -45,19 +45,22 @@ Shoot me a DM on Twitter!
 ### Recent Projects:
 [Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed website.
-- Tech used: Figma, Nextjs, GSAP, SCSS, Threejs
+- 
+- Tech used: Figma, Nextjs, GSAP, SCSS, Threejs.
 
 [Solarians](https://www.solarians.click)
-- Redesigned and developed website and web app
-- Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs
+- Redesigned and developed website and web app.
+- Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs.
 
 [Isekai Meta](https://isekaimeta.com/)
 - Designed & developed website.
-- Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion
+- Sold $2.5M of NFTs with a team of 13.
+- Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion.
 
 [Franky's Dinner](https://www.frankythefrog.com/)
 - Designed & developed website.
-- Tech used: Figma, Nextjs, SCSS, GSAP
+- Sold $500k of NFTs with a team of 3.
+- Tech used: Figma, Nextjs, SCSS, GSAP.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
