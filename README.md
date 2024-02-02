@@ -62,7 +62,6 @@ Shoot me a DM on Twitter!
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/kvncnls)
 - [CodePen](https://codepen.io/kvncnls)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
