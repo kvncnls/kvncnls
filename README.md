@@ -34,6 +34,8 @@ Shoot me a DM on Twitter!
 
 ### Design
 - Figma
+- Framer
+- Webflow
 - UI/UX design
 - Prototyping 
 - Web Design
