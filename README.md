@@ -47,7 +47,7 @@ Shoot me a DM on Twitter!
 ### Projects:
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
-- The Cyfrin website
+- Cyfrin website
 - CodeHawks (a competitive audits platform)
 - Solodit (the most-used Web3 auditing research platform)
 - Updraft (the #1 smart contract and smart contract auditing education platform)
