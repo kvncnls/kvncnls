@@ -7,9 +7,11 @@ Fastest way to contact me:
 ## 📋 About me:
 - 🟣 Designer #1 at [Monad](www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](www.cyfrin.io)
+- ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
 - 💻 I'm a creative frontend developer & UI designer.
 - 🔥 My passion is creating unique experiences with design and animations.
-- 🚀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 2022 for about ~$2.7M USD. We opened our animation studio in December 2022.
+- 🚀 I was the 13th and final member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 2022 for about ~$2.7M USD. We opened our animation studio in December 2022.
+- 🐸 I was the 4th member of Franky's Dinner, an NFT project on the Ethereum blockchian. We sold out in February 2023 for about $600k USD with a small team of 4.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
