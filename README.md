@@ -5,6 +5,8 @@ Fastest way to contact me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 📋 About me:
+- 🟣 Designer #1 at [Monad](www.monad.xyz)
+- 🔵 Ex-lead designer at [Cyfrin](www.cyfrin.io)
 - 💻 I'm a creative frontend developer & UI designer.
 - 🔥 My passion is creating unique experiences with design and animations.
 - 🚀 I'm the 13th member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 2022 for about ~$2.7M USD. We opened our animation studio in December 2022.
