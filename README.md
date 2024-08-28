@@ -5,7 +5,7 @@ Fastest way to contact me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 📋 About me:
-- 🟣 Designer #1 at [Monad](https://www.monad.xyz) (the website and brand is currently going through a brand refresh. Stay tuned!)
+- 🟣 Designer #1 at [Monad](https://www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
 - 💻 I'm a creative frontend developer & UI designer.
