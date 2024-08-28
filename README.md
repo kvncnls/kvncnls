@@ -25,9 +25,16 @@ Shoot me a DM on Twitter!
 - Figma
 - Framer
 - Webflow
+- JitterVideo
+- FableStudio
+- Photoshop
+- Canva
 - UI/UX design
+- Motion design
 - Prototyping 
 - Web Design
+- Product Design
+- Brand Design
 
 ### Languages & Preprocessors
 - HTML & CSS
