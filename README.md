@@ -8,10 +8,8 @@ Fastest way to contact me:
 - 🟣 Designer #1 at [Monad](https://www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
-- 💻 I'm a creative frontend developer & UI designer.
+- 💻 I'm a designer and creative frontend developer.
 - 🔥 My passion is creating unique experiences with design and animations.
-- 🚀 I was the 13th and final member of Isekai Meta, an NFT project on the Ethereum blockchain. We sold out on July 2022 for about ~$2.7M USD. We opened our animation studio in December 2022.
-- 🐸 I was the 4th member of Franky's Dinner, an NFT project on the Ethereum blockchian. We sold out in February 2023 for about $600k USD with a small team of 4.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
@@ -22,6 +20,14 @@ Shoot me a DM on Twitter!
 ![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 🛠 Tools & Skills:
+
+### Design
+- Figma
+- Framer
+- Webflow
+- UI/UX design
+- Prototyping 
+- Web Design
 
 ### Languages & Preprocessors
 - HTML & CSS
@@ -36,15 +42,7 @@ Shoot me a DM on Twitter!
 - GSAP, AOS, Framer Motion
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
-### Design
-- Figma
-- Framer
-- Webflow
-- UI/UX design
-- Prototyping 
-- Web Design
-
-### Projects:
+### Works:
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
 - Cyfrin website
