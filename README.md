@@ -49,6 +49,8 @@ Shoot me a DM on Twitter!
 - GSAP, AOS, Framer Motion
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvncnls&hide=javascript,css,scss,html&theme=tokyonight)
+
 ### Works:
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
