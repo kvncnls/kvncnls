@@ -9,11 +9,10 @@ Fastest way to contact me:
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
 - 💻 I'm a designer and creative frontend developer.
-- 🔥 My passion is creating unique experiences with design and animations.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
-I'm currently booked for freelancing but send me a message anyway! We can work together in the future, or I can point you towards my network of devs and designers.
+I'm currently not seeking freelancing opportunities, but send me a message anyway! We can work together in the future, or I can point you towards my network of devs and designers.
 
 Shoot me a DM on Twitter!
 
