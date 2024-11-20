@@ -53,10 +53,10 @@ Shoot me a DM on Twitter!
 ### Works:
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
-- Cyfrin website
-- CodeHawks (a competitive audits platform)
-- Solodit (the most-used Web3 auditing research platform)
-- Updraft (the #1 smart contract and smart contract auditing education platform)
+  - Cyfrin website (a smart contract auditing agency)
+  - CodeHawks (a Web3 competitive audits platform)
+  - Solodit (the #1, most-used Web3 auditing research platform)
+  - Updraft (the #1 smart contract and smart contract auditing education platform)
 
 [Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed websites for the Prolific Digital web design agency.
