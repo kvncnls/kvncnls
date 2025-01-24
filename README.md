@@ -25,9 +25,6 @@ Shoot me a DM on Twitter!
 - Framer
 - Webflow
 - JitterVideo
-- FableStudio
-- Photoshop
-- Canva
 - UI/UX design
 - Motion design
 - Prototyping 
