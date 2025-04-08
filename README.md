@@ -2,7 +2,7 @@
 
 Fastest way to contact me:
 
-![Twitter Follow](https://x.com/intent/follow?screen_name=kvncnls)
+![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 📋 About me:
 - 🟣 Designer #1 at [Monad](https://www.monad.xyz)
@@ -17,7 +17,7 @@ I'm currently not seeking freelancing opportunities, but send me a message anywa
 
 Shoot me a DM on Twitter!
 
-![Twitter Follow](https://x.com/intent/follow?screen_name=kvncnls)
+![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 🛠 Tools & Skills:
 
