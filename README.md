@@ -64,6 +64,12 @@ Shoot me a DM on Twitter!
   - CodeHawks (a Web3 competitive audits platform)
   - Solodit (the #1, most-used Web3 auditing research platform)
   - Updraft (the #1 smart contract and smart contract auditing education platform)
+ 
+[Molekule](https://molekule.com/)
+- Lead the product and UI/UX design of several Molekule initiatives:
+  - Molekule web store
+  - Molekule web app
+  - Molekule mobile app
 
 [Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed websites for the Prolific Digital web design agency.
