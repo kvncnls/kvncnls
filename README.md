@@ -48,6 +48,16 @@ Shoot me a DM on Twitter!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvncnls&theme=tokyonight)
 
 ### Works:
+[Monad](https://monad.xyz/)
+- Lead the design and development of several Monad intiatives (including brand design, product design, UI/UX design, motion design, marketing collateral and development):
+  - Main Monad site and internal designs
+  - Monad Foundation and internal designs
+  - Monad Madness
+  - evm/accathon
+  - Monad Developer Portal
+  - Testnet Landing Page
+  - Category Labs
+
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
   - Cyfrin website (a smart contract auditing agency)
