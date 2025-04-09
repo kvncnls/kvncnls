@@ -9,7 +9,7 @@ Fastest way to contact me:
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
 - 💻 I'm a designer and creative frontend developer.
-- 🎨 Designed and developed NFT projects that sold for $3.5M on launch day.
+- 🎨 Designed and developed NFT projects that sold for ~$3.3M on launch day.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
