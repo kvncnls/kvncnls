@@ -33,7 +33,7 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 ### Languages & Preprocessors
 - HTML & CSS
 - SASS/SCSS
-- JavaScript
+- JavaScript, TypeScript
 - Dabbled in PHP, Python
 
 ### Frameworks & Libraries
