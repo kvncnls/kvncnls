@@ -43,7 +43,8 @@ Shoot me a DM on Twitter!
 - React, Nextjs
 - Svelte, SvelteKit
 - Tailwind
-- GSAP, AOS, Framer Motion
+- Shadcn, RadixUI
+- GSAP, AOS, Motion (Formerly Framer Motion)
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvncnls&theme=tokyonight)
