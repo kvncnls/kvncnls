@@ -1,8 +1,6 @@
 # Hi, I'm Kevin! 👋
 
-Fastest way to contact me:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
+Fastest way to contact me: [@kvncnls on X (Twitter)](https://x.com/kvncnls).
 
 ## 📋 About me:
 - 🟣 Designer #1 at [Monad](https://www.monad.xyz)
@@ -15,9 +13,8 @@ Fastest way to contact me:
 
 I'm currently not seeking freelancing opportunities, but send me a message anyway! We can work together in the future, or I can point you towards my network of devs and designers.
 
-Shoot me a DM on Twitter!
+Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kvncnls?style=social)
 
 ## 🛠 Tools & Skills:
 
