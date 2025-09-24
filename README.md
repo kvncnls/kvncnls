@@ -48,7 +48,7 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 
 ### Works:
 [Monad](https://monad.xyz/)
-- Lead the design and development of several Monad intiatives (including brand design, product design, UI/UX design, motion design, marketing collateral and development):
+- Lead the design and/or development of all Monad intiatives (including brand design, product design, UI/UX design, motion design, marketing collateral and development):
   - Main Monad site and internal designs
   - Monad Foundation and internal designs
   - Monad Madness
@@ -56,6 +56,7 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
   - Monad Developer Portal
   - Testnet Landing Page
   - Category Labs
+  - And many more
 
 [Cyfrin](www.cyfrin.io)
 - Lead the design of several Cyfrin intiatives:
