@@ -6,8 +6,8 @@ Fastest way to contact me: [@kvncnls on X (Twitter)](https://x.com/kvncnls).
 - 🟣 Designer #1 at [Monad](https://www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
-- 💻 I'm a designer and creative frontend developer.
-- 🎨 Designed and developed NFT projects that sold for ~$3.3M on launch day.
+- 💻 Design Engineer
+- 🎨 Designed and developed NFT projects that sold for ~$3.3M with small teams.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 
@@ -41,7 +41,7 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 - Svelte, SvelteKit
 - Tailwind
 - Shadcn, RadixUI
-- GSAP, AOS, Motion (Formerly Framer Motion)
+- GSAP, AOS, Motion (formerly Framer Motion)
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvncnls&theme=tokyonight)
@@ -75,16 +75,16 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 - Designed & developed websites for the Prolific Digital web design agency.
 - Tech used: Figma, Nextjs, GSAP, SCSS, Threejs.
 
-[Solarians](https://www.solarians.click)
+Solarians
 - Redesigned and developed website and web apps.
 - Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs.
 
-[Isekai Meta](https://isekaimeta.com/)
+Isekai Meta
 - Designed & developed website and web apps.
 - Sold $2.7M of NFTs with a team of 13.
 - Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion.
 
-[Franky's Dinner](https://www.frankythefrog.com/)
+Franky's Dinner
 - Designed & developed website and web apps.
 - Sold $600k of NFTs with a team of 4.
 - Tech used: Figma, Nextjs, SCSS, GSAP.
