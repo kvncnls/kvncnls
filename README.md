@@ -73,21 +73,17 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 
 [Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed websites for the Prolific Digital web design agency.
-- Tech used: Figma, Nextjs, GSAP, SCSS, Threejs.
 
 Solarians
 - Redesigned and developed website and web apps.
-- Tech used: Figma, SvelteKit, GSAP, SCSS, Tailwind, Threejs.
 
 Isekai Meta
 - Designed & developed website and web apps.
 - Sold $2.7M of NFTs with a team of 13.
-- Tech used: Figma, Nextjs, SCSS, GSAP, Framer Motion.
 
 Franky's Dinner
 - Designed & developed website and web apps.
 - Sold $600k of NFTs with a team of 4.
-- Tech used: Figma, Nextjs, SCSS, GSAP.
 
 ## 📚 Other resources:
 - [Personal Website](https://www.kevincanlas.com/)
