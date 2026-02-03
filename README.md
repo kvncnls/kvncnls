@@ -3,7 +3,7 @@
 Fastest way to contact me: [@kvncnls on X (Twitter)](https://x.com/kvncnls).
 
 ## 📋 About me:
-- 🟣 Designer #1 at [Monad](https://www.monad.xyz)
+- 🟣 UI/UX Lead at [Monad](https://www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
 - 💻 Design Engineer
