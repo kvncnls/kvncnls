@@ -3,10 +3,9 @@
 Fastest way to contact me: [@kvncnls on X (Twitter)](https://x.com/kvncnls).
 
 ## 📋 About me:
-- 🟣 UI/UX Lead at [Monad](https://www.monad.xyz)
+- 🟣 UI/UX Lead & Design Engineer at [Monad Foundation](https://www.monad.xyz)
 - 🔵 Ex-lead designer at [Cyfrin](https://www.cyfrin.io)
 - ⚪️ Ex-lead designer at [Molekule](https://molekule.com/)
-- 💻 Design Engineer
 - 🎨 Designed and developed NFT projects that sold for ~$3.3M with small teams.
 
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
