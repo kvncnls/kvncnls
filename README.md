@@ -21,11 +21,13 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 - Figma
 - Framer
 - Webflow
+- Paper Design
 - JitterVideo
 - UI/UX design
 - Motion design
-- Prototyping 
+- Prototyping
 - Web Design
+- Copywriting & Marketing
 - Product Design
 - Brand Design
 
@@ -43,12 +45,10 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
 - GSAP, AOS, Motion (formerly Framer Motion)
 - Dabbled in Vue, Laravel, Blade, Chakra UI, Anime.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvncnls&theme=tokyonight)
-
 ### Works:
 [Monad](https://monad.xyz/)
 - Lead the design and/or development of all Monad intiatives (including brand design, product design, UI/UX design, motion design, marketing collateral and development):
-  - Main Monad site and internal designs
+  - Main Monad site
   - Monad Foundation and internal designs
   - Monad Madness
   - evm/accathon
@@ -69,6 +69,7 @@ Shoot me a DM on X (Twitter)! [@kvncnls on X (Twitter)](https://x.com/kvncnls)
   - Molekule web store
   - Molekule web app
   - Molekule mobile app
+  - Molekule Enterprise app
 
 [Prolific Digital](https://www.prolificdigital.com)
 - Designed & developed websites for the Prolific Digital web design agency.
